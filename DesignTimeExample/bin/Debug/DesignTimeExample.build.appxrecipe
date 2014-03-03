@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HPIRIS</Machine>
+    <WindowsUser>IrisDaniela</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>75d4bc2c-aae5-49ff-9a52-ef6f6e69aca0</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\DesignTimeExample.exe">
+      <PackagePath>DesignTimeExample.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\Assets\Styles.xbf">
+      <PackagePath>Assets\Styles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

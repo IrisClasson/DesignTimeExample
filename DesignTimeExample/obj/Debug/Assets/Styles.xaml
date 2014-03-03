@@ -1,0 +1,19 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style x:Key="title" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="25"/>
+        <Setter Property="TextWrapping" Value="Wrap"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="Margin" Value="0,0,0,30"/>
+        <Setter Property="TextAlignment" Value="Center"/>
+    </Style>
+
+
+    <Style x:Key="subTitle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="45"/>
+        <Setter Property="TextAlignment" Value="Center"/>
+    </Style>
+</ResourceDictionary>
+

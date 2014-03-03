@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HPIRIS</Machine>
+    <WindowsUser>IrisDaniela</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>75d4bc2c-aae5-49ff-9a52-ef6f6e69aca0</PackageIdentityName>
+    <RegisteredManifestChecksum>7533CBB001AABA8985835855D2C1546D542B88496A4967D31120E6FDD0A5086D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>75d4bc2c-aae5-49ff-9a52-ef6f6e69aca0_1.0.0.0_neutral__nvfdq19t5k5yj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>75d4bc2c-aae5-49ff-9a52-ef6f6e69aca0_nvfdq19t5k5yj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>75d4bc2c-aae5-49ff-9a52-ef6f6e69aca0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=IrisDaniela</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-03T01:26:58.688</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\DesignTimeExample.exe">
+      <PackagePath>DesignTimeExample.exe</PackagePath>
+      <Modified>2014-03-03T02:19:00.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-03-03T02:19:00.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\Assets\Styles.xbf">
+      <PackagePath>Assets\Styles.xbf</PackagePath>
+      <Modified>2014-03-03T01:50:25.923</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\DeleteMe.xbf">
+      <PackagePath>DeleteMe.xbf</PackagePath>
+      <Modified>2014-03-03T01:26:58.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-03-03T02:19:00.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IrisDaniela\Documents\Visual Studio 2013\Projects\DesignTimeExample\DesignTimeExample\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-03T01:26:58.539</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
